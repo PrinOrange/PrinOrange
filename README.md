@@ -1,3 +1,8 @@
+> [!WARNING]
+> I'm preparing for the master enterance examination so I may suspend all development activities.
+> 
+> 备研中，无暇顾及。有缘江湖再见。
+
 ## Hi, there👋
 
 I am an undergraduate student majoring in software engineering born in 2002, who is preparing for the examination for master entrance.
