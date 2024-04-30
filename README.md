@@ -5,7 +5,7 @@
 
 ## Hi, there👋
 
-I am an undergraduate student majoring in software engineering born in 2002, who is preparing for the examination for master entrance.
+I am an undergraduate student majoring in software engineering born in 2002, who is preparing for the examination for postgraduate entrance.
 
 My main research interests include front-end technology development, web full-stack development, software engineering theory, and the practical application of information system projects.
 
