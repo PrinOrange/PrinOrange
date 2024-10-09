@@ -17,7 +17,7 @@ Additionally, I am also interested in computer mathematics.
 - 🖥️ Programming stack: C, C++, JavaScript/TypeScript, Rust, Go, Java, Python, Scala, C#, BASIC, x86 Assembly, Coq, Haskell
 - 🤝 I am looking to collaborate with individuals who share a passion for hacking and are deeply involved in programming!
 - 📫 How to reach me:
-  - Twitter: [Codemetic](https://twitter.com/Codemetic)
+  - Twitter: [Sairawish](https://twitter.com/sairawish)
   - EMail: <terminels@outlook.com>
   - Mastodon: [mas.to/@terminels](https://mas.to/@terminels)
 - 🌐 Language : 汉语普通话（First Language） / English / 한국어 / 日本語
