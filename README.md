@@ -1,8 +1,3 @@
-> [!WARNING]
-> I'm preparing for the master matriculation so I may suspend all development activities.
-> 
-> 备研中，无暇顾及。有缘江湖再见。
-
 ## Hi, there👋
 
 I am a GenZ youth born in 2002, who has graduated with a Bachelor's degree in Software Engineering. Now I'm pursing the second degree of the Economic. Also now I'm preparing for the master's matriculation.
@@ -13,7 +8,7 @@ My main research realms include front-end technology development, web full-stack
 
 - 📕 Check out my github profile at Github
 - 🖥️ Programming stack: C, C++, JavaScript/TypeScript, Rust, Go, Java, Python, Scala, C#, BASIC, x86 Assembly, Coq, Haskell
-- 📫 How to reach me on Twitter: [@sairawish](https://x.com/sairawish)
+- 📫 How to reach me on Twitter: [@anachronm](https://x.com/anachronm)
 - 📍 I'm active in Lanzhou, sometimes in Zhengzhou, Xi'an, Qinhuangdao, Chengdu and Beijing.
 - 💬 Language : 汉语普通话 (First Language) / English (Proficient) / 조선어
 - 👦 Pronouns : He/Him ♂ · Cishet 👫. (Non-LGBTQ+)
