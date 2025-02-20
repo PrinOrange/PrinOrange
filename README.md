@@ -8,7 +8,7 @@ My main research realms include front-end technology development, web full-stack
 
 - 📕 Check out my github profile at Github
 - 🖥️ Programming stack: C, C++, JavaScript/TypeScript, Rust, Go, Java, Python, Scala, C#, BASIC, x86 Assembly, Coq, Haskell
-- 📫 How to reach me on Twitter: [@anachronm](https://x.com/anachronm)
+- 📫 How to reach me on Twitter: [@codemica](https://x.com/codemica)
 - 📍 I'm active in Lanzhou, sometimes in Zhengzhou, Xi'an, Qinhuangdao, Chengdu and Beijing.
 - 💬 Language : 汉语普通话 (First Language) / English (Proficient) / 조선어
 - 👦 Pronouns : He/Him ♂ · Cishet 👫. (Non-LGBTQ+)
