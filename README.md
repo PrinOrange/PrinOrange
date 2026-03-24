@@ -6,7 +6,3 @@ I am GenZ youth born in 2002, who has graduated with a Bachelor's degree in Soft
 
 - 📕 Check out my github profile at Github
 - 🖥️ Programming stack: C, C++, JavaScript/TypeScript, Rust, Go, Java, Python, Scala, C#, BASIC, x86 Assembly, Coq, Haskell
-- 📫 How to reach me on Twitter: [@codemica](https://x.com/codemica)
-- 📍 I'm active in Lanzhou, sometimes in Zhengzhou, Xi'an, Qinhuangdao, Chengdu and Beijing.
-- 👦 Pronouns : He/Him ♂ · Cishet 👫. (Non-LGBTQ+)
-- 🌎 From : China 🇨🇳 , Henan Province.
